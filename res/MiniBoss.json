@@ -1,0 +1,59 @@
+[
+  {
+    "comps": [
+      {
+        "name": "Flammes des Enfers",
+        "description": "A",
+        "value": 3,
+        "damage": true
+      }
+    ],
+    "level": 10,
+    "vie": {
+      "pv": 1,
+      "pv_def": 146
+    },
+    "name": "Ifrit",
+    "estVivant": true,
+    "force": 12,
+    "design": "res/miniboss/Ifrit.txt"
+  },
+  {
+    "comps": [
+      {
+        "name": "Hadouken",
+        "description": " ",
+        "value": 3,
+        "damage": true
+      }
+    ],
+    "level": 10,
+    "vie": {
+      "pv": 1,
+      "pv_def": 149
+    },
+    "name": "Ryu",
+    "estVivant": true,
+    "force": 12,
+    "design": "res/miniboss/Ryu.txt"
+  },
+  {
+    "comps": [
+      {
+        "name": "Marteau de Glace",
+        "description": "Une attaque puissante du titan de Glace",
+        "value": 10,
+        "damage": true
+      }
+    ],
+    "level": 10,
+    "vie": {
+      "pv": 1,
+      "pv_def": 146
+    },
+    "name": "Titan de Glace",
+    "estVivant": true,
+    "force": 12,
+    "design": "res/miniboss/TitanGlace.txt"
+  }
+]

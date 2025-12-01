@@ -1,0 +1,156 @@
+[
+  {
+    "phrase": "Un rugissement résonne dans la tour, rappelant la menace des créatures sauvages dehors, ce qui fait bouger certains monstres. Que souhaitez-vous faire ?",
+    "reponsePossible": [
+      "partir",
+      "rester"
+    ],
+    "resultatPossible": [
+      "rien",
+      "degats"
+    ]
+  },
+  {
+    "phrase": "Tu trouves un nid avec des œufs, ce qui pourrait attirer des monstres ou réveiller une créature mère. Que souhaitez-vous faire ?",
+    "reponsePossible": [
+      "prendre",
+      "laisser"
+    ],
+    "resultatPossible": [
+      "heal",
+      "degats"
+    ]
+  },
+  {
+    "phrase": "Tu entends des pas lourds résonner dans la grande salle, ce qui te laisse deviner la taille et le nombre des monstres à venir. Que souhaitez-vous faire ?",
+    "reponsePossible": [
+      "partir",
+      "aller"
+    ],
+    "resultatPossible": [
+      "rien",
+      "degats"
+    ]
+  },
+  {
+    "phrase": "Dans une forêt, vous pouvez soit continuer votre chemin, soit tourner. Que souhaitez-vous faire ?",
+    "reponsePossible": [
+      "continuer",
+      "tourner"
+    ],
+    "resultatPossible": [
+      "heal",
+      "degats"
+    ]
+  },
+  {
+    "phrase": "Pendant que vous vous reposez, un monstre sauvage vous saute dessus. Comment réagisez-vous ?",
+    "reponsePossible": [
+      "esquiver",
+      "contrer"
+    ],
+    "resultatPossible": [
+      "rien",
+      "degats"
+    ]
+  },
+  {
+    "phrase": "En vous baladant, vous remarquer un champignon qui a l\u0027air différend des autre, Que souhaitez-vous faire ?",
+    "reponsePossible": [
+      "manger",
+      "laisser"
+    ],
+    "resultatPossible": [
+      "heal",
+      "rien"
+    ]
+  },
+  {
+    "phrase": "Lors d\u0027une balade nocturne, vous entendez un bruit de caillou tomber par terre. Que souhaitez-vous faire ?",
+    "reponsePossible": [
+      "ignorer",
+      "aller"
+    ],
+    "resultatPossible": [
+      "rien",
+      "degats"
+    ]
+  },
+  {
+    "phrase": "Une torche au sol semble encore chaude, signe d\u0027une présence récente. La prudence est de mise. Que fais-tu ?",
+    "reponsePossible": [
+      "examiner",
+      "partir"
+    ],
+    "resultatPossible": [
+      "degats",
+      "rien"
+    ]
+  },
+  {
+    "phrase": "Un vieux puits attire ton attention. Tu entends de l’eau couler au fond. Que fais-tu ?",
+    "reponsePossible": [
+      "descendre",
+      "ignorer"
+    ],
+    "resultatPossible": [
+      "heal",
+      "rien"
+    ]
+  },
+  {
+    "phrase": "Un papillon lumineux vole près de toi, dégageant une douce chaleur. Tu sens qu’il pourrait t’aider... ou te piéger. Que fais-tu ?",
+    "reponsePossible": [
+      "le suivre",
+      "l’ignorer"
+    ],
+    "resultatPossible": [
+      "heal",
+      "rien"
+    ]
+  },
+  {
+    "phrase": "Un grincement métallique se fait entendre derrière une porte rouillée. Que choisis-tu de faire ?",
+    "reponsePossible": [
+      "ouvrir",
+      "reculer"
+    ],
+    "resultatPossible": [
+      "degats",
+      "rien"
+    ]
+  },
+  {
+    "phrase": "Tu découvres une étagère poussiéreuse avec des fioles colorées. L\u0027une semble intacte. Que fais-tu ?",
+    "reponsePossible": [
+      "boire",
+      "laisser"
+    ],
+    "resultatPossible": [
+      "heal",
+      "rien"
+    ]
+  },
+  {
+    "phrase": "Une ombre furtive traverse le couloir derrière toi. Tu n’es pas seul. Que fais-tu ?",
+    "reponsePossible": [
+      "fuir",
+      "observer"
+    ],
+    "resultatPossible": [
+      "rien",
+      "degats"
+    ]
+  },
+  {
+    "phrase": "Une salle remplie de miroirs déformants te déstabilise. Ton reflet t’imite avec un léger retard. Que fais-tu ?",
+    "reponsePossible": [
+      "toucher le miroir",
+      "reculer"
+    ],
+    "resultatPossible": [
+      "degats",
+      "rien"
+    ]
+  }
+]

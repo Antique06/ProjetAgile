@@ -1,0 +1,156 @@
+[
+  {
+    "phrase": "Un rugissement démoniaque résonne dans les profondeurs, rappelant la menace des créatures infernales, ce qui fait bouger certains monstres. Que souhaitez-vous faire ?",
+    "reponsePossible": [
+      "partir",
+      "rester"
+    ],
+    "resultatPossible": [
+      "rien",
+      "degats"
+    ]
+  },
+  {
+    "phrase": "Tu trouves un nid calciné contenant des œufs embrasés, ce qui pourrait attirer une créature de feu. Que souhaites-tu faire ?",
+    "reponsePossible": [
+      "prendre",
+      "laisser"
+    ],
+    "resultatPossible": [
+      "heal",
+      "degats"
+    ]
+  },
+  {
+    "phrase": "Tu entends des pas lourds résonner sur la roche volcanique, trahissant la puissance et le nombre des créatures infernales qui approchent. Que souhaites-tu faire ?",
+    "reponsePossible": [
+      "partir",
+      "aller"
+    ],
+    "resultatPossible": [
+      "rien",
+      "degats"
+    ]
+  },
+  {
+    "phrase": "Dans un dédale de roches en fusion, vous pouvez soit continuer votre chemin, soit bifurquer vers un couloir embrasé. Que souhaitez-vous faire ?",
+    "reponsePossible": [
+      "continuer",
+      "tourner"
+    ],
+    "resultatPossible": [
+      "heal",
+      "degats"
+    ]
+  },
+  {
+    "phrase": "Alors que vous vous reposez, une bête enflammée surgit et vous attaque par surprise. Comment réagissez-vous ?",
+    "reponsePossible": [
+      "esquiver",
+      "contrer"
+    ],
+    "resultatPossible": [
+      "rien",
+      "degats"
+    ]
+  },
+  {
+    "phrase": "En explorant, vous remarquez un champignon incandescent aux reflets rougeoyants, différent des autres. Que souhaitez-vous faire ?",
+    "reponsePossible": [
+      "manger",
+      "laisser"
+    ],
+    "resultatPossible": [
+      "heal",
+      "rien"
+    ]
+  },
+  {
+    "phrase": "Lors d’une marche dans les entrailles brûlantes, une pierre en fusion tombe du plafond. Que souhaitez-vous faire ?",
+    "reponsePossible": [
+      "ignorer",
+      "aller"
+    ],
+    "resultatPossible": [
+      "rien",
+      "degats"
+    ]
+  },
+  {
+    "phrase": "Un brasier encore fumant crépite dans un recoin de la caverne, signe d’une présence récente. La prudence est de mise. Que fais-tu ?",
+    "reponsePossible": [
+      "examiner",
+      "partir"
+    ],
+    "resultatPossible": [
+      "degats",
+      "rien"
+    ]
+  },
+  {
+    "phrase": "Un gouffre incandescent attire ton attention. Tu entends de la lave bouillonner au fond. Que fais-tu ?",
+    "reponsePossible": [
+      "descendre",
+      "ignorer"
+    ],
+    "resultatPossible": [
+      "heal",
+      "rien"
+    ]
+  },
+  {
+    "phrase": "Une flamme spectrale danse près de toi, irradiant une énergie étrange. Elle pourrait t’aider... ou te consumer. Que fais-tu ?",
+    "reponsePossible": [
+      "la suivre",
+      "l'ignorer"
+    ],
+    "resultatPossible": [
+      "heal",
+      "rien"
+    ]
+  },
+  {
+    "phrase": "Un grincement métallique résonne derrière une lourde porte de basalte brûlant. Que choisis-tu de faire ?",
+    "reponsePossible": [
+      "ouvrir",
+      "reculer"
+    ],
+    "resultatPossible": [
+      "degats",
+      "rien"
+    ]
+  },
+  {
+    "phrase": "Tu découvres une étagère carbonisée avec des fioles encore brûlantes. L’une semble intacte. Que fais-tu ?",
+    "reponsePossible": [
+      "boire",
+      "laisser"
+    ],
+    "resultatPossible": [
+      "heal",
+      "rien"
+    ]
+  },
+  {
+    "phrase": "Une ombre démoniaque traverse les flammes derrière toi. Tu n’es pas seul. Que fais-tu ?",
+    "reponsePossible": [
+      "fuir",
+      "observer"
+    ],
+    "resultatPossible": [
+      "rien",
+      "degats"
+    ]
+  },
+  {
+    "phrase": "Une salle aux parois de lave solidifiée reflète ton image dans des cristaux ardents. Ton reflet bouge avec un léger retard. Que fais-tu ?",
+    "reponsePossible": [
+      "toucher le cristal",
+      "reculer"
+    ],
+    "resultatPossible": [
+      "degats",
+      "rien"
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "nom": "Paladin",
+    "description": "Le paladin est un héros assez équilibrer. Il est capable de manier autant une épée, que de se défendre et utilisé la magie."
+  },
+  {
+    "nom": "Moine",
+    "description": "Le Moine est un érudit des religions les plus mystérieuse. Malgré son faible physique, ses plus grande prière feront des explosions de lumières."
+  },
+  {
+    "nom": "Mage",
+    "description": "Le Mage possède des capacités magiques hors de la norme. Sa magie peut provoquer les plus grand miracles."
+  },
+  {
+    "nom": "Gambler",
+    "description": "Malgré ses faibles capacité à se battre, ses cartes sont d\u0027une magie extrêmement puissante... mais aléatoire."
+  }
+]
