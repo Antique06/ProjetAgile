@@ -1,0 +1,102 @@
+[
+  {
+    "comps": [
+      {
+        "name": "coup de carotte",
+        "description": "A",
+        "value": 2,
+        "damage": true
+      },
+      {
+        "name": "rayon de glace",
+        "description": "A",
+        "value": 5,
+        "damage": true
+      }
+    ],
+    "level": 10,
+    "vie": {
+      "pv": 1,
+      "pv_def": 199
+    },
+    "name": "Olaf",
+    "estVivant": true,
+    "force": 10,
+    "design": "res/boss/Olaf_boss_neige_.txt"
+  },
+  {
+    "comps": [
+      {
+        "name": "Lance Flamme",
+        "description": "A",
+        "value": 2,
+        "damage": true
+      },
+      {
+        "name": "Déflagration",
+        "description": "A",
+        "value": 5,
+        "damage": true
+      }
+    ],
+    "level": 10,
+    "vie": {
+      "pv": 1,
+      "pv_def": 197
+    },
+    "name": "Red",
+    "estVivant": true,
+    "force": 15,
+    "design": "res/boss/Red_boss_feu_.txt"
+  },
+  {
+    "comps": [
+      {
+        "name": "Supernova",
+        "description": "A",
+        "value": 2,
+        "damage": true
+      },
+      {
+        "name": "Octofrappe",
+        "description": "A",
+        "value": 5,
+        "damage": true
+      }
+    ],
+    "level": 10,
+    "vie": {
+      "pv": 1,
+      "pv_def": 197
+    },
+    "name": "Sephiroth",
+    "estVivant": true,
+    "force": 20,
+    "design": "res/boss/Sephiroth.txt"
+  },
+  {
+    "comps": [
+      {
+        "name": "TNT",
+        "description": "A",
+        "value": 2,
+        "damage": true
+      },
+      {
+        "name": "Épée en diamant",
+        "description": "A",
+        "value": 5,
+        "damage": true
+      }
+    ],
+    "level": 10,
+    "vie": {
+      "pv": 1,
+      "pv_def": 197
+    },
+    "name": "Steve",
+    "estVivant": true,
+    "force": 15,
+    "design": "res/boss/Steve_boss_terre.txt"
+  }
+]

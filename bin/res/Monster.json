@@ -1,0 +1,112 @@
+[
+  {
+    "level": 10,
+    "vie": {
+      "pv": 1,
+      "pv_def": 200
+    },
+    "name": "Berserker",
+    "estVivant": true,
+    "force": 2,
+    "design": "res/monstres/Berserker.txt"
+  },
+  {
+    "level": 10,
+    "vie": {
+      "pv": 1,
+      "pv_def": 196
+    },
+    "name": "Bombo",
+    "estVivant": true,
+    "force": 2,
+    "design": "res/monstres/Bombo.txt"
+  },
+  {
+    "level": 10,
+    "vie": {
+      "pv": 1,
+      "pv_def": 197
+    },
+    "name": "Dragon",
+    "estVivant": true,
+    "force": 2,
+    "design": "res/monstres/Dragon.txt"
+  },
+  {
+    "level": 10,
+    "vie": {
+      "pv": 1,
+      "pv_def": 199
+    },
+    "name": "Gobelin",
+    "estVivant": true,
+    "force": 2,
+    "design": "res/monstres/Gobelin.txt"
+  },
+  {
+    "level": 10,
+    "vie": {
+      "pv": 1,
+      "pv_def": 197
+    },
+    "name": "Mammouth",
+    "estVivant": true,
+    "force": 2,
+    "design": "res/monstres/Mammouth.txt"
+  },
+  {
+    "level": 10,
+    "vie": {
+      "pv": 1,
+      "pv_def": 199
+    },
+    "name": "PereNoel",
+    "estVivant": true,
+    "force": 2,
+    "design": "res/monstres/Pere_noel.txt"
+  },
+  {
+    "level": 10,
+    "vie": {
+      "pv": 1,
+      "pv_def": 199
+    },
+    "name": "Shrek",
+    "estVivant": true,
+    "force": 2,
+    "design": "res/monstres/Shrek.txt"
+  },
+  {
+    "level": 10,
+    "vie": {
+      "pv": 1,
+      "pv_def": 198
+    },
+    "name": "Slime",
+    "estVivant": true,
+    "force": 2,
+    "design": "res/monstres/Slime.txt"
+  },
+  {
+    "level": 10,
+    "vie": {
+      "pv": 1,
+      "pv_def": 198
+    },
+    "name": "Wyverne",
+    "estVivant": true,
+    "force": 2,
+    "design": "res/monstres/Wyverne.txt"
+  },
+  {
+    "level": 10,
+    "vie": {
+      "pv": 1,
+      "pv_def": 197
+    },
+    "name": "Yeti",
+    "estVivant": true,
+    "force": 2,
+    "design": "res/monstres/Yeti.txt"
+  }
+]

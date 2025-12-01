@@ -1,0 +1,156 @@
+[
+  {
+    "phrase": "Un hurlement glacé résonne dans la vallée gelée, rappelant la menace des créatures sauvages des neiges, ce qui fait bouger certains monstres. Que souhaitez-vous faire ?",
+    "reponsePossible": [
+      "partir",
+      "rester"
+    ],
+    "resultatPossible": [
+      "rien",
+      "degats"
+    ]
+  },
+  {
+    "phrase": "Tu trouves un nid gelé contenant des œufs recouverts de givre, ce qui pourrait attirer une créature polaire en colère. Que souhaites-tu faire ?",
+    "reponsePossible": [
+      "prendre",
+      "laisser"
+    ],
+    "resultatPossible": [
+      "heal",
+      "degats"
+    ]
+  },
+  {
+    "phrase": "Tu entends des pas lourds résonner dans la neige compacte, trahissant la taille et le nombre des créatures glacées qui approchent. Que souhaites-tu faire ?",
+    "reponsePossible": [
+      "partir",
+      "aller"
+    ],
+    "resultatPossible": [
+      "rien",
+      "degats"
+    ]
+  },
+  {
+    "phrase": "Dans une forêt enneigée, vous pouvez soit continuer votre chemin, soit bifurquer dans un passage couvert de glace. Que souhaitez-vous faire ?",
+    "reponsePossible": [
+      "continuer",
+      "tourner"
+    ],
+    "resultatPossible": [
+      "heal",
+      "degats"
+    ]
+  },
+  {
+    "phrase": "Alors que vous vous reposez, une bête des neiges surgit et vous attaque par surprise. Comment réagissez-vous ?",
+    "reponsePossible": [
+      "esquiver",
+      "contrer"
+    ],
+    "resultatPossible": [
+      "rien",
+      "degats"
+    ]
+  },
+  {
+    "phrase": "En explorant, vous remarquez un champignon gelé aux reflets bleutés, différent des autres. Que souhaitez-vous faire ?",
+    "reponsePossible": [
+      "manger",
+      "laisser"
+    ],
+    "resultatPossible": [
+      "heal",
+      "rien"
+    ]
+  },
+  {
+    "phrase": "Lors d’une marche nocturne dans la neige, un bloc de glace se détache et tombe lourdement. Que souhaitez-vous faire ?",
+    "reponsePossible": [
+      "ignorer",
+      "aller"
+    ],
+    "resultatPossible": [
+      "rien",
+      "degats"
+    ]
+  },
+  {
+    "phrase": "Un feu de camp à moitié éteint fume encore dans la neige, signe d’une présence récente. La prudence est de mise. Que fais-tu ?",
+    "reponsePossible": [
+      "examiner",
+      "partir"
+    ],
+    "resultatPossible": [
+      "degats",
+      "rien"
+    ]
+  },
+  {
+    "phrase": "Un puits gelé attire ton attention. Tu entends de l’eau encore active sous la glace. Que fais-tu ?",
+    "reponsePossible": [
+      "descendre",
+      "ignorer"
+    ],
+    "resultatPossible": [
+      "heal",
+      "rien"
+    ]
+  },
+  {
+    "phrase": "Un papillon cristallin vole près de toi, diffusant une douce lumière glacée. Il pourrait t’aider... ou te piéger. Que fais-tu ?",
+    "reponsePossible": [
+      "le suivre",
+      "l’ignorer"
+    ],
+    "resultatPossible": [
+      "heal",
+      "rien"
+    ]
+  },
+  {
+    "phrase": "Un grincement métallique se fait entendre derrière une lourde porte gelée. Que choisis-tu de faire ?",
+    "reponsePossible": [
+      "ouvrir",
+      "reculer"
+    ],
+    "resultatPossible": [
+      "degats",
+      "rien"
+    ]
+  },
+  {
+    "phrase": "Tu découvres une étagère enneigée avec des fioles givrées. L’une semble intacte. Que fais-tu ?",
+    "reponsePossible": [
+      "boire",
+      "laisser"
+    ],
+    "resultatPossible": [
+      "heal",
+      "rien"
+    ]
+  },
+  {
+    "phrase": "Une ombre glisse furtivement derrière un mur de glace. Tu n’es pas seul. Que fais-tu ?",
+    "reponsePossible": [
+      "fuir",
+      "observer"
+    ],
+    "resultatPossible": [
+      "rien",
+      "degats"
+    ]
+  },
+  {
+    "phrase": "Une caverne remplie de miroirs de glace t’entoure. Ton reflet semble bouger avec un léger retard. Que fais-tu ?",
+    "reponsePossible": [
+      "toucher le miroir",
+      "reculer"
+    ],
+    "resultatPossible": [
+      "degats",
+      "rien"
+    ]
+  }
+]
